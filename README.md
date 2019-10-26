@@ -1,4 +1,4 @@
-# DnD-App
+# D&D App
 
 Application for general dungeons and dragon character stat sheet
 
